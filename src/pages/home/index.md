@@ -2,8 +2,8 @@
 templateKey: home-page
 headerImage:
   image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  imageAlt: Statesboro JavaScript
+title: Meet other JavaScript Developers in Statesboro
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -21,8 +21,8 @@ callToActions:
 seo:
   browserTitle: JS Wakanda
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+    JavaScript meetup group in Statesboro where JavaScript developers get
+    together for presentations and to meet others in the community.
+  title: Statesboro JavaScript
 ---
 
